@@ -11,4 +11,4 @@ Internet speed measurement, Speedtest-cli in Docker container, script modificati
 https://www.domoticz.com/wiki/Bash_-_Speedtest.net_Download/Upload/Ping_monitoring
 
 and Internet Speed Test in a Container from here
-https://github.com/robinmanuelthiel/sp ... e-ov-file
+https://github.com/robinmanuelthiel/speedtest?tab=readme-ov-file
