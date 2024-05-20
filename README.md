@@ -6,3 +6,9 @@ Domoticz backup to USB device.
 
 
 Internet speed measurement, Speedtest-cli in Docker container
+
+Internet speed measurement, Speedtest-cli in Docker container, script modification from this link
+https://www.domoticz.com/wiki/Bash_-_S ... onitoring
+
+and Internet Speed Test in a Container from here
+https://github.com/robinmanuelthiel/sp ... e-ov-file
