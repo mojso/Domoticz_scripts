@@ -14,6 +14,8 @@ Domoticz_backup_to_usb_drive.sh
 
 ## Internet speed measurement, Speedtest-cli in Docker container
 
+Speedtest.sh
+
 * Internet speed measurement, Speedtest-cli in Docker container, script modification from this link
 https://www.domoticz.com/wiki/Bash_-_Speedtest.net_Download/Upload/Ping_monitoring
 
