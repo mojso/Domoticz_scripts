@@ -23,3 +23,8 @@ https://www.domoticz.com/wiki/Bash_-_Speedtest.net_Download/Upload/Ping_monitori
 https://github.com/robinmanuelthiel/speedtest?tab=readme-ov-file
 
 SpeedTestfromLibreelecKodi.sh
+
+# Earthquake info from www.seismicportal.eu
+
+
+
