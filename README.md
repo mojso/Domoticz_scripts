@@ -1,4 +1,6 @@
+
 Domoticz backup to USB device. 
+
 Domoticz_backup_to_usb_drive.sh
 
 1. checks if the USB is mounted
