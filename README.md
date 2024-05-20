@@ -19,3 +19,5 @@ https://www.domoticz.com/wiki/Bash_-_Speedtest.net_Download/Upload/Ping_monitori
 
 * and Internet Speed Test in a Container from here
 https://github.com/robinmanuelthiel/speedtest?tab=readme-ov-file
+
+SpeedTestfromLibreelecKodi.sh
