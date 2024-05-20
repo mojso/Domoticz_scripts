@@ -3,7 +3,7 @@
 exec 2>/storage/downloads/error.log
 set -x
 #setup
-host='UAER:PASS@192.168.1.101:8080'
+host='USER:PASS@192.168.1.101:8080'
 #idx for download, upload and ping
 idxdl=1519
 idxul=1520
