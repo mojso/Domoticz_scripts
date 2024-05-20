@@ -26,6 +26,8 @@ SpeedTestfromLibreelecKodi.sh
 
 ## Earthquake info from www.seismicportal.eu
 
+EarthquakeEuRadius.lua
+
 Earthquake info from www.seismicportal.eu
 more detailed information on telegram about the earthquake
 
