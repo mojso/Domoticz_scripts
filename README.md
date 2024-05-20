@@ -24,7 +24,7 @@ https://github.com/robinmanuelthiel/speedtest?tab=readme-ov-file
 
 SpeedTestfromLibreelecKodi.sh
 
-# Earthquake info from www.seismicportal.eu
+## Earthquake info from www.seismicportal.eu
 
 
 
