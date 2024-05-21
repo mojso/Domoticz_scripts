@@ -1,4 +1,7 @@
 #!/bin/bash
+## This script was created by mojso
+## https://github.com/mojso/Domoticz_scripts
+
 
 #setup
 host='localhost'
