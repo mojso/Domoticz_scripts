@@ -32,7 +32,7 @@ EarthquakeEuRadius.lua
 Earthquake info from www.seismicportal.eu
 more detailed information on telegram about the earthquake
 
-# Venetian Blinds  and Device to control  Blindsvfrom Dmoticz
+# Venetian Blinds  and Device to control  Blindsv from Dmoticz
 
 -- Blinds dimmer script using ESPEasy by mojso
 -- 1. put the script in Events as Lua script
