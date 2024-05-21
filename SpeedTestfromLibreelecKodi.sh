@@ -1,4 +1,7 @@
 #!/bin/bash
+## This script was created by mojso
+## https://github.com/mojso/Domoticz_scripts
+
 # Add this at the beginning of your script
 exec 2>/storage/downloads/error.log
 set -x
