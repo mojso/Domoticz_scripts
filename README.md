@@ -34,7 +34,7 @@ more detailed information on telegram about the earthquake
 
 # Venetian Blinds  and Device to control  Blindsv from Dmoticz
 
-file:
+file: VenetianBlinds.lua
 
 Blinds dimmer script using ESPEasy by mojso
 * put the script in Events as Lua script
