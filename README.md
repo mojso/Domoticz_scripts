@@ -36,7 +36,6 @@ more detailed information on telegram about the earthquake
 
 file: VenetianBlinds.lua
 
-Blinds dimmer script using ESPEasy by mojso
 * put the script in Events as Lua script
 * in setup -> more option --> user variable put in variable name dimmer -- , variable type string and update
 * Setup -> Hardware  dymmy device 
