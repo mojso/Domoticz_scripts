@@ -34,9 +34,9 @@ more detailed information on telegram about the earthquake
 
 # Venetian Blinds  and Device to control  Blindsv from Dmoticz
 
--- Blinds dimmer script using ESPEasy by mojso
--- 1. put the script in Events as Lua script
--- 2.in setup -> more option --> user variable put in variable name dimmer -- , variable type string and update
--- 3.Setup -> Hardware  dymmy device 
---create virtual device,  Select rgb switch,  
--- Then in Switches find the created device end click edit. -- then in switch type select blinds precentage and save
+Blinds dimmer script using ESPEasy by mojso
+* put the script in Events as Lua script
+* in setup -> more option --> user variable put in variable name dimmer -- , variable type string and update
+* Setup -> Hardware  dymmy device 
+create virtual device,  Select rgb switch,  
+* Then in Switches find the created device end click edit. -- then in switch type select blinds precentage and save
