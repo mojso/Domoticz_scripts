@@ -1,3 +1,5 @@
+-- This script was created by mojso
+-- https://github.com/mojso/Domoticz_scripts
 --this scripts gets earthquake info from www.seismicportal.eu for a defined area and then updates a text sensor with Magnitude and location
 
 --it takes the first entry (= the most recent one) and therefore runs every 5 minutes
