@@ -22,8 +22,7 @@ https://www.domoticz.com/wiki/Bash_-_Speedtest.net_Download/Upload/Ping_monitori
 * and Internet Speed Test in a Container from here
 https://github.com/robinmanuelthiel/speedtest?tab=readme-ov-file
 
-## Internet speed measurement, Speedtest-cli in Docker container
-from Libreelec - Kodi
+## Internet speed measurement, Speedtest-cli in Docker container from Libreelec - Kodi
 SpeedTestfromLibreelecKodi.sh
 
 ## Earthquake info from www.seismicportal.eu
