@@ -1,4 +1,7 @@
--- Blinds dimmer script using ESPEasy by mojso
+-- Blinds dimmer script using ESPEasy 
+-- This script was created by mojso
+-- https://github.com/mojso/Domoticz_scripts
+
 -- 1. put the script in Events as Lua script
 -- 2.in setup -> more option --> user variable put in variable name dimmer -- , variable type string and update
 -- 3.Setup -> Hardware  dymmy device 
