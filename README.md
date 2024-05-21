@@ -32,7 +32,7 @@ file: EarthquakeEuRadius.lua
 Earthquake info from www.seismicportal.eu
 more detailed information on telegram about the earthquake
 
-# Venetian Blinds  and Device to control  Blindsv from Dmoticz
+# Venetian Blinds  and Device to control  Blinds from Dmoticz
 
 file: VenetianBlinds.lua
 
