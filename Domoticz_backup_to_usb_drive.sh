@@ -1,6 +1,6 @@
 #!/bin/bash
-###This script was created by mojso
-## https://github.com/mojso/Domoticz_scripts
+### This script was created by mojso
+### https://github.com/mojso/Domoticz_scripts
 
 DOMO_IP="127.0.0.1"  # Domoticz IP 
 DOMO_PORT="8080"        # Domoticz port 
