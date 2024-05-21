@@ -1,4 +1,7 @@
 #!/bin/bash
+###This script was created by mojso
+## https://github.com/mojso/Domoticz_scripts
+
 DOMO_IP="127.0.0.1"  # Domoticz IP 
 DOMO_PORT="8080"        # Domoticz port 
 CHECKMOUNT="/media/pi/UsbStorage5"  #address of the usb device to check if it is mounted
