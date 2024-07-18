@@ -23,6 +23,11 @@ download=$(cat speedtest.txt | sed -n 's/.*download speed is \([0-9]*\) Mbps.*/\
 upload=$(cat speedtest.txt | sed -n 's/.*upload speed is \([0-9]*\) Mbps.*/\1/p')
 png=$(cat speedtest.txt | sed -n 's/Your ping is \(.*\) ms\./\1/p')
 
+#download=$(cat speedtest.txt | sed -n 's/.*download speed is \([0-9]*\) Mbps.*/\1/p')
+#upload=$(cat speedtest.txt | sed -n 's/.*upload speed is \([0-9]*\) Mbps.*/\1/p')
+#png=$(cat speedtest.txt | sed -n 's/Your ping is \(.*\) ms\./\1/p')
+
+
 # output if you run it manually
 echo "Download = $download Mbps"
 echo "Upload =  $upload Mbps"
