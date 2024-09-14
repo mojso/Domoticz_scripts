@@ -58,7 +58,7 @@ local currInfo = tostring(sensor.text)
 
 			domoticz.openURL({
 
-				url = 'www.seismicportal.eu/fdsnws/event/1/query?limit=10&lat='..yourLatitude..'&lon='..yourLongitude..'&minradius=0&maxradius=180&format=json&minmag='..minmagq..'',
+				url = 'www.seismicportal.eu/fdsnws/event/1/query?limit=10&lat='..yourLatitude..'&lon='..yourLongitude..'&minradius=0.1&maxradius=180&format=json&minmag='..minmagq..'',
 
 				method = 'GET',
 
